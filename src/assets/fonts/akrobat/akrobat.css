@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Akrobat;
+  font-style: normal;
+  font-weight: normal; /* or 400 */
+  src: url(/Akrobat-Regular.woff) format(woff), url(/Akrobat-Regular.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: Akrobat;
+  font-style: normal;
+  font-weight: bold; /* or 400 */
+  src: url(/Akrobat-Bold.woff) format(woff), url(/Akrobat-Bold.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: Akrobat;
+  font-style: normal;
+  font-weight: black; /* or 400 */
+  src: url(/Akrobat-Black.woff) format(woff), url(/Akrobat-Black.woff2) format(woff2);
+}
